@@ -1,0 +1,8 @@
+{
+  "name": "VYRA",
+  "description": "Lightning-fast 10-minute quick commerce delivery app with personalized recommendations and easy reordering",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
